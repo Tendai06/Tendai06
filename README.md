@@ -36,18 +36,12 @@ Strong interest in SwiftUI, animations, and clean architecture.
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📱 iOS Apps</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="APP_SCREENSHOT_1.png" width="200"/>
+  <img src="APP_SCREENSHOT_2.png" width="200"/>
+  <img src="APP_SCREENSHOT_3.png" width="200"/>
 </p>
 
 ---
