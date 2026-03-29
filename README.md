@@ -39,7 +39,8 @@ Strong interest in SwiftUI, animations, and clean architecture.
 <h3 align="center">📱 iOS Apps</h3>
 
 <p align="center">
-  <img src="APP_SCREENSHOT_1.png" width="200"/>
+  <img src="APP_SCREENSH<img width="411" height="794" alt="Screenshot 2026-03-29 at 15 04 37" src="https://github.com/user-attachments/assets/3f7ee5d4-4e72-4b9f-82e1-105de4c84c8b" />
+OT_1.png" width="200"/>
   <img src="APP_SCREENSHOT_2.png" width="200"/>
   <img src="APP_SCREENSHOT_3.png" width="200"/>
 </p>
